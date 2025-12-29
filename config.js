@@ -41,7 +41,7 @@ const config = {
         "alt": "Sommelier pouring red wine at a private tasting"
       },
       {
-        "src": "https://thumbs.dreamstime.com/b/luxurious-display-showcases-bottle-red-wine-alongside-half-filled-glass-cheese-platter-fresh-fruit-add-inviting-atmosphere-354636449.jpg",
+        "src": "https://images.stockcake.com/public/0/0/f/00fc4f2e-b3b2-4f04-952f-fbee3c4b7416_large/elegant-wine-evening-stockcake.jpg",
         "alt": "Close-up of wine glasses with artisan cheese pairings"
       },
       {
@@ -185,7 +185,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1767034050200_0",
+      "id": "q_auto_1767034117932_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -207,7 +207,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1767034050201_1",
+      "id": "q_auto_1767034117932_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -229,7 +229,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1767034050201_2",
+      "id": "q_auto_1767034117932_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
