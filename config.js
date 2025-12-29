@@ -28,16 +28,11 @@ const config = {
     "primaryColorOverride": "",
     "secondaryColorOverride": "",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
-    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
     "facebookPixelId": "1057475448873422",
+    "turnstileSiteKey": "",
     "salesGeniusAppApi": "",
-    "followUpBossEmail": ""
-  },
-  "thankYouPage": {
-    "pageTitle": "Thank You for Your Entry!",
-    "headerText": "You’re In the Running!",
-    "mainMessage": "Your entry for the Wine Connoisseur Experience has been submitted. We’ll draw on Feb 7, 2026 and email the winner from daniel@erbaandco.com. Good luck!",
-    "socialPromptText": "Watch your email on Feb 7. Share this giveaway with a friend who loves wine."
+    "followUpBossEmail": "",
+    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
   },
   "prize": {
     "images": [
@@ -132,8 +127,6 @@ const config = {
     ]
   },
   "rules": {
-    "finePrintText": "Please read the fine print before entering. Anyone can enter.",
-    "showTipsSection": true,
     "faq": [
       {
         "q": "Who can enter?",
@@ -170,6 +163,8 @@ const config = {
       "Tell a friend who loves wine to enter too",
       "Follow Daniel Losier on Instagram or Facebook for the winner post"
     ],
+    "finePrintText": "Please read the fine print before entering. Anyone can enter.",
+    "showTipsSection": true,
     "fairSelectionInfo": {
       "title": "Fair and Random Winner Selection",
       "text": "We use a certified random number tool. Every valid entry has the same chance. One entry per person keeps it fair for all."
@@ -190,7 +185,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1757969005264_0",
+      "id": "q_auto_1767033974924_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -212,7 +207,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1757969005264_1",
+      "id": "q_auto_1767033974924_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -234,7 +229,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1757969005264_2",
+      "id": "q_auto_1767033974924_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -256,6 +251,18 @@ const config = {
       ]
     }
   ],
+  "thankYouPage": {
+    "socialLinks": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": ""
+    },
+    "pageTitle": "Thank You for Your Entry!",
+    "headerText": "You’re In the Running!",
+    "mainMessage": "Your entry for the Wine Connoisseur Experience has been submitted. We’ll draw on Feb 7, 2026 and email the winner from daniel@erbaandco.com. Good luck!",
+    "socialPromptText": "Watch your email on Feb 7. Share this giveaway with a friend who loves wine."
+  },
   "footerContact": {
     "social": {
       "facebook": "https://www.facebook.com/erbaandco/",
@@ -268,14 +275,14 @@ const config = {
       "email": "daniel@erbaandco.com"
     },
     "footerDisclaimer": "This giveaway is sponsored by Daniel Losier at real broker and is not affiliated with Wine Connoisseur Giveaway, Instagram, or Facebook. No purchase necessary. Ontario residents only. Must be 18+. One entry per person. Entries close 2026-02-07 at 11:59 PM ET. Winner selected at random on 2026-02-07. Odds depend on number of entries. By entering, you agree to our Privacy Policy.",
-    "organizerLogoUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/branding/headshots/1753812424056-Portraits-Michaela+Dan-161.jpg",
+    "organizerLogoUrl": "https://erbaandco.com/wp-content/uploads/2023/04/Dan-Losier-02-1320x903.jpg",
     "secondaryLogoUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/branding/logos/1753811939065-LOSIER_PrimaryLogo_100K.png",
     "secondaryLogoAlt": "Daniel Losier",
     "organizerName": "Daniel Losier",
     "brokerageName": "real broker",
     "address": "130 King St W Unit Unit 1900B, Toronto, On, M5X1E3",
     "email": "daniel@erbaandco.com",
-    "phone": "4164186470",
+    "phone": "(416) 418-6470",
     "copyrightOwner": "Daniel Losier"
   },
   "deploymentInfo": {
