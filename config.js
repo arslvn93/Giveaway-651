@@ -184,7 +184,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1767129066596_0",
+      "id": "q_auto_1767129222976_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -206,7 +206,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1767129066596_1",
+      "id": "q_auto_1767129222976_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -228,7 +228,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1767129066596_2",
+      "id": "q_auto_1767129222976_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -259,8 +259,8 @@ const config = {
     },
     "pageTitle": "Thank You for Your Entry!",
     "headerText": "Almost There - One More Step!",
-    "mainMessage": "Your entry for the Wine Connoisseur Experience has been received.",
-    "socialPromptText": " To be eligible for the draw, you must follow Daniel on Instagram - only followers can win!"
+    "mainMessage": "Your information for the Wine Connoisseur Experience has been received. Complete your entry below to be eligible for the Feb 7 draw.",
+    "socialPromptText": "Follow Daniel on Instagram to complete your entry - only followers are eligible to win!"
   },
   "footerContact": {
     "social": {
