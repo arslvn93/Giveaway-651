@@ -160,8 +160,7 @@ const config = {
     "tips": [
       "Double-check your email for typos so we can reach you",
       "Only one entry per person keeps it fair",
-      "Tell a friend who loves wine to enter too",
-      "Follow Daniel Losier on Instagram or Facebook for the winner post"
+      "Tell a friend who loves wine to enter too"
     ],
     "finePrintText": "Please read the fine print before entering. Anyone can enter.",
     "showTipsSection": true,
@@ -185,7 +184,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1767128560102_0",
+      "id": "q_auto_1767128591253_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -207,7 +206,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1767128560102_1",
+      "id": "q_auto_1767128591253_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -229,7 +228,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1767128560102_2",
+      "id": "q_auto_1767128591253_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
