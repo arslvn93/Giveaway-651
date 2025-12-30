@@ -184,7 +184,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1767128591253_0",
+      "id": "q_auto_1767128875721_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -206,7 +206,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1767128591253_1",
+      "id": "q_auto_1767128875721_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -228,7 +228,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1767128591253_2",
+      "id": "q_auto_1767128875721_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -259,8 +259,8 @@ const config = {
     },
     "pageTitle": "Thank You for Your Entry!",
     "headerText": "You’re In the Running!",
-    "mainMessage": "Your entry for the Wine Connoisseur Experience has been submitted. We’ll draw on Feb 7, 2026 and email the winner from daniel@erbaandco.com. Good luck!",
-    "socialPromptText": "Watch your email on Feb 7. Share this giveaway with a friend who loves wine."
+    "mainMessage": "Your entry for the Wine Connoisseur Experience has been submitted. \n\nWatch your email on Feb 7.",
+    "socialPromptText": "Follow Daniel on Instagram to complete your entry - only followers are eligible to win!"
   },
   "footerContact": {
     "social": {
