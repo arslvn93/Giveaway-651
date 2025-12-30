@@ -185,7 +185,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1767128477371_0",
+      "id": "q_auto_1767128560102_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -207,7 +207,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1767128477371_1",
+      "id": "q_auto_1767128560102_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -229,7 +229,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1767128477371_2",
+      "id": "q_auto_1767128560102_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -274,7 +274,7 @@ const config = {
       "phone": "4164186470",
       "email": "daniel@erbaandco.com"
     },
-    "footerDisclaimer": "This giveaway is sponsored by Daniel Losier at Real Broker and is not affiliated with Instagram or Facebook. No purchase necessary. Ontario residents only. Must be 18+. One entry per person. Entries close February 7, 2026 at 11:59 PM ET. Winner selected at random on February 8, 2026. Odds depend on number of entries. By entering, you agree to our Privacy Policy.",
+    "footerDisclaimer": "This giveaway is sponsored by Daniel Losier at Real Broker and is not affiliated with, sponsored, or endorsed by the wine sommelier, wine tasting experience provider, or any company or service providing the Wine Connoisseur Giveaway prize. This promotion is not associated with Instagram or Facebook. No purchase necessary. Ontario residents only. Must be 18+. One entry per person. Entries close February 7, 2026 at 11:59 PM ET. Winner selected at random on February 8, 2026. Odds depend on number of entries. By entering, you agree to our Privacy Policy.",
     "organizerLogoUrl": "https://erbaandco.com/wp-content/uploads/2023/04/Dan-Losier-02-1320x903.jpg",
     "secondaryLogoUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/branding/logos/1753811939065-LOSIER_PrimaryLogo_100K.png",
     "secondaryLogoAlt": "Daniel Losier",
