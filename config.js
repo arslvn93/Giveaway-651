@@ -184,7 +184,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1767128885642_0",
+      "id": "q_auto_1767129066596_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -206,7 +206,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1767128885642_1",
+      "id": "q_auto_1767129066596_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -228,7 +228,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1767128885642_2",
+      "id": "q_auto_1767129066596_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -258,9 +258,9 @@ const config = {
       "tiktok": ""
     },
     "pageTitle": "Thank You for Your Entry!",
-    "headerText": "You’re In the Running!",
-    "mainMessage": "Your entry for the Wine Connoisseur Experience has been submitted. \n\nWatch your email on Feb 7.",
-    "socialPromptText": "Follow Daniel on Instagram to complete your entry - only followers are eligible to win!"
+    "headerText": "Almost There - One More Step!",
+    "mainMessage": "Your entry for the Wine Connoisseur Experience has been received.",
+    "socialPromptText": " To be eligible for the draw, you must follow Daniel on Instagram - only followers can win!"
   },
   "footerContact": {
     "social": {
