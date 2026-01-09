@@ -8,8 +8,8 @@ const config = {
     "heroHeadline": "Win <span class='highlight'>a Private Wine Tasting</span> in Toronto!",
     "heroSubheadline": "Enjoy a sommelier-led night with premium pours and pairings. $700 value. Make rich memories with people you love. Entry is fast and free.",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/36fm86m2m9rmy0cv9jtvrqndqg.jpg",
-    "promotionDates": "Enter Jan 12 – Feb 7, 2026. Winner picked Feb 7.",
-    "endDate": "2026-02-08T04:59:00.000Z",
+    "promotionDates": "Enter Jan 12 – Feb 6, 2026. Winner picked Feb 7.",
+    "endDate": "2026-02-06T22:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
     "entryFormCtaText": "Enter My Details Now!",
     "name": "Wine Connoisseur Giveaway",
@@ -78,7 +78,7 @@ const config = {
     "name": "Wine Connoisseur Experience",
     "value": "$700 Value",
     "description": "Picture this: a calm room, glasses shining, and a pro sommelier guiding you sip by sip. You taste special wines from iconic regions. You learn simple ways to taste like a pro. You enjoy tasty pairings that make each sip sing. No stress. Just great wine, great food, and great company. We’ll plan the final details with the winner so the night fits you.",
-    "limitedTimeOfferText": "Limited Winter Giveaway — Ends Feb 7",
+    "limitedTimeOfferText": "Limited Winter Giveaway — Ends Feb 6",
     "ctaButtonText": "I Want This Tasting!"
   },
   "howToEnter": {
@@ -184,7 +184,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1767964270548_0",
+      "id": "q_auto_1767967373759_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -206,7 +206,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1767964270548_1",
+      "id": "q_auto_1767967373759_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -228,7 +228,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1767964270548_2",
+      "id": "q_auto_1767967373759_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
@@ -273,7 +273,7 @@ const config = {
       "phone": "(647) 557-8052",
       "email": "daniel@erbaandco.com"
     },
-    "footerDisclaimer": "This giveaway is sponsored by Daniel Losier at Real Broker and is not affiliated with, sponsored, or endorsed by the wine sommelier, wine tasting experience provider, or any company or service providing the Wine Connoisseur Giveaway prize. This promotion is not associated with Instagram or Facebook. No purchase necessary. Ontario residents only. Must be 18+. One entry per person. Entries close February 7, 2026 at 11:59 PM ET. Winner selected at random on February 8, 2026. Odds depend on number of entries. By entering, you agree to our Privacy Policy.",
+    "footerDisclaimer": "This giveaway is sponsored by Daniel Losier at Real Broker and is not affiliated with, sponsored, or endorsed by the wine sommelier, wine tasting experience provider, or any company or service providing the Wine Connoisseur Giveaway prize. This promotion is not associated with Instagram or Facebook. No purchase necessary. Ontario residents only. Must be 18+. One entry per person. Entries close February 6, 2026 at 11:59 PM ET. Winner selected at random on February 7, 2026. Odds depend on number of entries. By entering, you agree to our Privacy Policy.",
     "organizerLogoUrl": "https://erbaandco.com/wp-content/uploads/2023/04/Dan-Losier-02-1320x903.jpg",
     "secondaryLogoUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/branding/logos/1753811939065-LOSIER_PrimaryLogo_100K.png",
     "secondaryLogoAlt": "Daniel Losier",
