@@ -86,7 +86,7 @@ const config = {
       {
         "icon": "fab fa-instagram",
         "title": "Follow My Page",
-        "description": "Follow me @danlosier.erba."
+        "description": "Follow me @erba.and.co"
       },
       {
         "icon": "fas fa-check-circle",
@@ -184,7 +184,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1767129855911_0",
+      "id": "q_auto_1767964270548_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -206,7 +206,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1767129855911_1",
+      "id": "q_auto_1767964270548_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -228,7 +228,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1767129855911_2",
+      "id": "q_auto_1767964270548_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
@@ -260,28 +260,28 @@ const config = {
     "pageTitle": "Thank You for Your Entry!",
     "headerText": "Almost There!",
     "mainMessage": "Your information for the Wine Connoisseur Experience has been received. Complete your entry below to be eligible for the Feb 7 draw.",
-    "socialPromptText": "Follow Daniel on Instagram to complete your entry - only followers are eligible to win!"
+    "socialPromptText": "Follow Erba & Co on Instagram to complete your entry - only followers are eligible to win!"
   },
   "footerContact": {
     "social": {
       "facebook": "",
-      "instagram": "https://instagram.com/Danlosier.erba"
+      "instagram": "https://www.instagram.com/erba.and.co"
     },
     "agentContact": {
       "name": "Daniel Losier",
       "title": "REALTOR",
-      "phone": "4164186470",
+      "phone": "(647) 557-8052",
       "email": "daniel@erbaandco.com"
     },
     "footerDisclaimer": "This giveaway is sponsored by Daniel Losier at Real Broker and is not affiliated with, sponsored, or endorsed by the wine sommelier, wine tasting experience provider, or any company or service providing the Wine Connoisseur Giveaway prize. This promotion is not associated with Instagram or Facebook. No purchase necessary. Ontario residents only. Must be 18+. One entry per person. Entries close February 7, 2026 at 11:59 PM ET. Winner selected at random on February 8, 2026. Odds depend on number of entries. By entering, you agree to our Privacy Policy.",
     "organizerLogoUrl": "https://erbaandco.com/wp-content/uploads/2023/04/Dan-Losier-02-1320x903.jpg",
     "secondaryLogoUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/branding/logos/1753811939065-LOSIER_PrimaryLogo_100K.png",
     "secondaryLogoAlt": "Daniel Losier",
-    "organizerName": "Daniel Losier",
-    "brokerageName": "real broker",
+    "organizerName": "Erba & Co",
+    "brokerageName": "Real Broker",
     "address": "130 King St W Unit Unit 1900B, Toronto, On, M5X1E3",
     "email": "daniel@erbaandco.com",
-    "phone": "(416) 418-6470",
+    "phone": "(647) 557-8052",
     "copyrightOwner": "Daniel Losier"
   },
   "deploymentInfo": {
